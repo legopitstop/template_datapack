@@ -1,0 +1,17 @@
+{
+  "name": "Template",
+  "version": "1.0.0",
+  "description": "desc!",
+  "author": "Legopitstop",
+  "output": "build",
+  "data_pack": {
+    "load": ["src"],
+    "render": {
+      "functions": ["*"]
+    }
+  },
+  "pipeline": ["build.main"],
+  "meta": {
+    "generate_namespace": "asd"
+  }
+}

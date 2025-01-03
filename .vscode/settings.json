@@ -1,3 +1,5 @@
 {
-    "workbench.iconTheme": "mc-dp-icons"
+  "workbench.iconTheme": "mc-dp-icons",
+  "python.envFile": "${workspaceFolder}/.env",
+  "beet.selectedConfigFile": "c:\\Users\\1589l\\Documents\\GitHub\\Templates\\datapack\\beet.json"
 }

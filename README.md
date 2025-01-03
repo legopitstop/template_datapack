@@ -17,7 +17,7 @@ Template data pack.
 
 ## LINKS
 
-- [Download](https://lpsmods.dev)
-- [Wiki Page](https://github.com/legopitstop/DataPack/wiki)
+- [Download](https://github.com/legopitstop/template_datapack/releases)
+- [Wiki Page](https://github.com/legopitstop/template_datapack/wiki)
 - [License](https://license.lpsmods.dev)
-- [Bug Report](https://github.com/legopitstop/DataPack/issues)
+- [Bug Report](https://github.com/legopitstop/template_datapack/issues)
