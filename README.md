@@ -9,9 +9,9 @@ Template data pack.
 | Key                | Value    |
 | ------------------ | -------- |
 | supported          | `yes`    |
-| namespace          | `MOD_ID` |
+| namespace          | `mod_id` |
 | pack_version       | `1.0.0`  |
-| mc_version         | `1.20.5` |
+| mc_version         | `1.21.4` |
 | multiplayer_tested | `no`     |
 | has_config         | `no`     |
 

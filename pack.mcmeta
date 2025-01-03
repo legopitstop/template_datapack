@@ -1,14 +1,14 @@
 {
   "pack": {
-    "pack_format": 36,
+    "pack_format": 61,
     "supported_formats": {
-      "min_inclusive": 33,
-      "max_inclusive": 36
+      "min_inclusive": 61,
+      "max_inclusive": 61
     },
     "version": [1, 0, 0],
     "description": [
       {
-        "text": "DESC! ",
+        "text": "description! ",
         "color": "gray"
       },
       {
